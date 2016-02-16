@@ -29,12 +29,22 @@
 #### Write at least 3 reasons why the [Google Design Specifications][https://www.google.com/design/spec/material-design/introduction.html] design follows Material Design guidelines. Be as specific as possible.
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
+
 9.
+
 10. 
+
