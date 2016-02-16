@@ -2,7 +2,7 @@
 
 ---
 
-##### Write at least 5 things that you like or dislike about the [Google Design Specifications][https://www.google.com/design/spec/material-design/introduction.html] website design.
+##### Write at least 5 things that you like or dislike about the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) website design.
 
 1.
 
@@ -26,7 +26,7 @@
 
 ---
 
-##### Write at least 3 reasons why the [Google Design Specifications][https://www.google.com/design/spec/material-design/introduction.html] design follows Material Design guidelines. Be as specific as possible.
+##### Write at least 3 reasons why the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) design follows Material Design guidelines. Be as specific as possible.
 
 1.
 
