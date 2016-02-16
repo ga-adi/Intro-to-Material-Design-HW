@@ -1,6 +1,5 @@
 ## Intro to Material Design Homework - Responses
 
----
 
 ##### Write at least 5 things that you like or dislike about the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) website design.
 
