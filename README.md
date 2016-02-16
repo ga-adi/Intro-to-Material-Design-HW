@@ -11,7 +11,7 @@ creator: James Davis (NYC)
 
 Today, we learned about Material Design. Tonight, using what you know, you will be providing your opinion on a website that is designed with material in mind.
 
-You will be evaluating the [Google Design Specifications][https://www.google.com/design/spec/material-design/introduction.html] website.
+You will be evaluating the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) website.
 
 #### Requirements
 
