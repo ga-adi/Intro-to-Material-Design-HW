@@ -18,17 +18,6 @@ The majority of my criticisms center around the question of whether the Material
 
 5. I regret that Google did not approach the design of the Material Design website with more of a sense of that mobile developers would not only read the learning materials on the site, but would experience that physcial layout more intimately as they're thinking about how the site does or does not fulfull the design specifications for which its asking.
 
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
----
 
 ##### Write at least 3 reasons why the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) design follows Material Design guidelines. Be as specific as possible.
 
@@ -40,17 +29,6 @@ The majority of my criticisms center around the question of whether the Material
 
 3. The layout of different content is spaced generously as if constrained by the physical limitations of a handheld. Additionally, far more information could have been placed on each page. This follows the specs of Material Design because of the emphasis on readability, and not overwhelming the user with view on top of view on top of view. 
 
-4.
 
-5.
 
-6.
-
-7.
-
-8.
-
-9.
-
-10. 
 
